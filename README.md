@@ -38,6 +38,6 @@ jupyter lab
 - \`app.py\` — interactive IPL dashboard
 - \`IPL.csv\` — IPL 2022 match dataset (74 matches)
 - \`IPL_PROJECT.ipynb\` — IPL analysis notebook
-- \`1.Matplotlib.ipynb\` to \`5. Plotly and cufflinks.ipynb\` — visualisation examples
+- \`1.Matplotlib.ipynb\` to \`5. Plotly.ipynb\` — visualisation examples
 - \`images/\` — chart images used in this README
 - \`requirements.txt\` — Python dependencies
